@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi all, I'm Oussama 👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=oouklich)](https://github.com/mohouyizme/1337-readme)
+#### This is my 42 Profile Card
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich)](https://github.com/mohouyizme/1337-readme)
+
+#### [My portfolio](https://ilkou.github.io)
 
 <!--
 **ilkou/ilkou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
