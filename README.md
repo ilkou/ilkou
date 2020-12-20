@@ -1,11 +1,19 @@
-### Hi all, I'm Oussama 👋
+<div align="center">
+<img align="center" alt="GIF" height="400px" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich" />
 
-#### This is my 42 Profile Card
+### Hi there, I'm [Oussama](https://ilkou.github.io) 👋 This is my 42 Profile Card
+</div>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich)](https://github.com/mohouyizme/1337-readme)
+<div align="center">
+<p>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ilkou&show_icons=true&theme=radical" />
+<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ilkou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilkou&show_icons=true&theme=radical)
 
+![VisitorCount](https://profile-counter.glitch.me/{ilkou}/count.svg)
+
+</div>
 
 #### [My portfolio](https://ilkou.github.io)
 
