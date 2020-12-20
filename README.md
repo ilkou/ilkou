@@ -4,6 +4,9 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich)](https://github.com/mohouyizme/1337-readme)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilkou&show_icons=true&theme=radical)
+
+
 #### [My portfolio](https://ilkou.github.io)
 
 <!--
