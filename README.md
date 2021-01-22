@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Oussama](https://ilkou.github.io) 👋 This is my 42 Profile Card
 
-<img align="center" id="profile" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich" />
+<img align="center" id="profile" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=oouklich" />
 
 </div>
 
