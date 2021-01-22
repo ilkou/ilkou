@@ -2,11 +2,14 @@
 
 ### Hi there, I'm [Oussama](https://ilkou.github.io) 👋 This is my 42 Profile Card
 
-<img align="center" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich" />
+<img align="center" id="profile" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=oouklich" />
 
 </div>
 
-
+<script>
+  if (document.documentElement.getAttribute('data-color-mode') == "light")
+    document.getElementById("profile").src = "https://1337-readme.vercel.app/api/profile?cursus=42&dark=false&email=hide&login=oouklich"
+</script>
 
 
 <div align="center">
