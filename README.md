@@ -17,6 +17,7 @@
 ![VisitorCount](https://profile-counter.glitch.me/{ilkou}/count.svg)
 
 </div>
+<img align="center" height="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkou&" alt="ilkou" />
 
 #### [My portfolio](https://ilkou.github.io)
 
