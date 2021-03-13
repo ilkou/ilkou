@@ -11,13 +11,13 @@
 <p>
   <span style="min-width: 500px" ><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ilkou&show_icons=true&theme=radical" /></span>
   <span style="min-width: 500px" ><img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ilkou&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></span>
-</p>
-
 
 ![VisitorCount](https://profile-counter.glitch.me/{ilkou}/count.svg)
 
+
+<span style="min-width: 500px" ><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkou" /></span>
+</p>
 </div>
-<img align="center" height="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkou&" alt="ilkou" />
 
 #### [My portfolio](https://ilkou.github.io)
 
