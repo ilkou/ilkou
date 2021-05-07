@@ -20,6 +20,7 @@
 </div>
 
 #### [My portfolio](https://ilkou.github.io)
+#### [My gists](https://gist.github.com/ilkou)
 
 <!--
 **ilkou/ilkou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
