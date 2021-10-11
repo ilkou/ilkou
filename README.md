@@ -2,6 +2,9 @@
 
 ### Hi there, I'm Oussama 👋 check my [portfolio](https://ilkou.github.io)
 
+ 
+ [![oouklich's 1337 stats](https://badge42.herokuapp.com/api/stats/oouklich?darkmode=true&cursus=42cursus&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 <!-- <img align="center" id="profile" alt="GIF" height="350px" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=oouklich" />
  -->
 </div>
