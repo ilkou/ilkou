@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Oussama 👋 check out my [portfolio](https://ilkou.github.io)
+### Hi there, I'm Oussama 👋 check out my [portfolio](https://ilkou.github.io) & my [résumé](https://resume.github.io/?ilkou)
 
  
 <!--  [![oouklich's 1337 stats](https://badge42.herokuapp.com/api/stats/oouklich?darkmode=true&cursus=42cursus&privacyEmail=true)](https://github.com/JaeSeoKim/badge42) -->
